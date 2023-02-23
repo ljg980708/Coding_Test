@@ -7,7 +7,6 @@ public class Main {
             int i = 1;
             while(true){
                 if(answer % 3 == 0 || answer % 10 == 3 || answer / 10 == 3 || answer / 10 == 13){
-                    // answer%3==0 || answer%10==3 || answer/10==3 || answer/10==13
                     answer += 1;
                 }else{
                     if(i == n) break;
