@@ -1,35 +1,13 @@
 import java.util.Scanner;
 
 public class Main {
-<<<<<<< HEAD
-    static class Solution {
-        public int solution(int n) {
-            int answer = 1;
-            int i = 1;
-            while(true){
-                if(answer % 3 == 0 || answer % 10 == 3 || answer / 10 == 3 || answer / 10 == 13){
-                    // answer%3==0 || answer%10==3 || answer/10==3 || answer/10==13
-                    answer += 1;
-                }else{
-                    if(i == n) break;
-                    answer +=1;
-                    i++;
-                }
-            }
-            return answer;
-        }
-    }
-=======
->>>>>>> be468228659715046dfd92f0882bf4c7efa54bba
     public static void main(String[] args) {
         Solution s = new Solution();
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
         System.out.println(s.solution(num));
     }
-<<<<<<< HEAD
 }
-=======
 }
 class Solution {
     public int solution(int n) {
@@ -47,4 +25,3 @@ class Solution {
         return answer;
     }
 }
->>>>>>> be468228659715046dfd92f0882bf4c7efa54bba
