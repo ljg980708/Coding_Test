@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Coding_Test.iml" filepath="$PROJECT_DIR$/.idea/Coding_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/curse-num-3/curse-num-3.iml" filepath="$PROJECT_DIR$/programmers/curse-num-3/curse-num-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/deck-of-cards/deck-of-cards.iml" filepath="$PROJECT_DIR$/programmers/deck-of-cards/deck-of-cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/fruit-seller/fruit-seller.iml" filepath="$PROJECT_DIR$/programmers/fruit-seller/fruit-seller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/k-number/k-number.iml" filepath="$PROJECT_DIR$/programmers/k-number/k-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/n-numbers-spaced-by-x/n-numbers-spaced-by-x.iml" filepath="$PROJECT_DIR$/programmers/n-numbers-spaced-by-x/n-numbers-spaced-by-x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/our-own-code/our-own-code.iml" filepath="$PROJECT_DIR$/programmers/our-own-code/our-own-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/substring/substring.iml" filepath="$PROJECT_DIR$/programmers/substring/substring.iml" />
+    </modules>
+  </component>
+</project>
